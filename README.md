@@ -18,3 +18,7 @@ Latex Setting
     --theme: default
     --color theme: whale
     --支持中文
+5. Book_Chinese.tex
+    --Book template
+    --支持中文
+    --use 'progbookcn.cjk'
