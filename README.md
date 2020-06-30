@@ -1,5 +1,7 @@
 # latex_setting
 Latex Setting
+0. settings.json
+    --VS Code
 1. progbookcn.cjk
     --Format setting
     --Chinese Fonts
